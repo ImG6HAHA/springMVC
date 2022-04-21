@@ -14,6 +14,7 @@
         <module>demo3</module>
         <module>demo4-jsp</module>
         <module>demo5-rest</module>
+        <module>demo6</module>
 
     </modules>
 
