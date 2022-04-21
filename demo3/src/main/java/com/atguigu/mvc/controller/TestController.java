@@ -10,9 +10,18 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class TestController {
 
-    @RequestMapping("/")
-    public String index(){
+//    @RequestMapping("/")
+//    public String index(){
+//        //设置视图名称
+//        return "index";
+//    }
+    //改用springMVC.xml配置首页视图（视图控制器）
+
+    @RequestMapping("/test_view")
+    public String testView(){
         //设置视图名称
-        return "index";
+        return "test_view";
     }
+
+
 }

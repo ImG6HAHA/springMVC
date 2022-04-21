@@ -5,6 +5,8 @@
     <file type="web" url="file://$PROJECT_DIR$/demo1" />
     <file type="web" url="file://$PROJECT_DIR$/demo2" />
     <file type="web" url="file://$PROJECT_DIR$/demo3" />
+    <file type="web" url="file://$PROJECT_DIR$/demo4" />
+    <file type="web" url="file://$PROJECT_DIR$/demo4-jsp" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">

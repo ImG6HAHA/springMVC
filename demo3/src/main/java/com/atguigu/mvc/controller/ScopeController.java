@@ -67,14 +67,13 @@ public class ScopeController {
         session.setAttribute("testSessionScope", "hello,session");
         return "success";
     }
-    
+
     @RequestMapping("/testApplication")
     public String testApplication(HttpSession session){
         ServletContext application = session.getServletContext();
         application.setAttribute("testApplicationScope", "hello,application");
         return "success";
     }
-
 
 
 
