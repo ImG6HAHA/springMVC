@@ -9,6 +9,8 @@
     <file type="web" url="file://$PROJECT_DIR$/demo4-jsp" />
     <file type="web" url="file://$PROJECT_DIR$/demo5-rest" />
     <file type="web" url="file://$PROJECT_DIR$/demo6" />
+    <file type="web" url="file://$PROJECT_DIR$/demo7" />
+    <file type="web" url="file://$PROJECT_DIR$/demo8-annotation" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
